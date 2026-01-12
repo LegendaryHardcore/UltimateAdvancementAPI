@@ -19,27 +19,6 @@
         <!-- Command Modules -->
         <dependency>
             <groupId>com.frengor</groupId>
-            <artifactId>ultimateadvancementapi-commands-commandapi-9.3.0</artifactId>
-            <version>${project.version}</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.frengor</groupId>
-            <artifactId>ultimateadvancementapi-commands-commandapi-9.7.0</artifactId>
-            <version>${project.version}</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.frengor</groupId>
-            <artifactId>ultimateadvancementapi-commands-commandapi-10.1.2</artifactId>
-            <version>${project.version}</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.frengor</groupId>
             <artifactId>ultimateadvancementapi-commands-commandapi-11.1.0</artifactId>
             <version>${project.version}</version>
             <scope>compile</scope>
